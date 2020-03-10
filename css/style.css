@@ -1,0 +1,11 @@
+#main{
+    width:800px;
+}
+
+#title{
+    color:blue;
+    text-align: center;
+}
+#number-input{
+    width:200px;
+}
